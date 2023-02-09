@@ -1,0 +1,49 @@
+body {
+    background-color: #24353F;
+    font-family: sans-serif;
+}
+
+footer {
+    box-shadow: 0px 0px 40px 8px rgba(8, 8, 8, 0.55) !important;
+}
+
+section {
+    box-shadow: 0px 0px 40px 8px rgba(8, 8, 8, 0.55) !important;
+}
+
+.login-form {
+    background-color: #24353F;
+    box-shadow: 0px 0px 40px 8px rgba(8, 8, 8, 0.55) !important;
+    width: 65% !important;
+}
+
+
+
+
+input {
+    background-color: inherit !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+
+
+.text-center>h1 {
+    color: #17A2B8;
+}
+.text-center>span>a {
+    text-decoration: none;
+}
+.text-center>span>a:hover {
+    text-decoration: underline;
+}
+
+.col-md-12 .btn {
+    border-color: #17A2B8;
+    opacity: 0.9;
+    color: #17A2B8;
+    transition: all 0.7s;
+}
+.col-md-12 .btn:hover {
+    background-color: #17A2B8;
+    color: white;
+}
